@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_v_s_player">Player vs Player</string>
+    <string name="player_v_s_computer">Player vs Computer</string>
+    <string name="refresh">Refresh</string>
+
+</resources>
